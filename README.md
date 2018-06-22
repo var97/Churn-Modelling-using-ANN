@@ -15,7 +15,7 @@ Each connection, like the synapses in a biological brain, can transmit a signal 
 
 For example if their are x1, x2 and x3 as an input values and w1, w2, w3 as weight of edges connecting to neuron h1 in hidden layer, then input of h1 is calculated by
 
-h1 = activation function(x1*w1 + x2*w2 +x3*w3 +biasnode)
+h1 = activation function(x1*w1 + x2*w2 +x3*w3 + biasnode)
 
 - And same process is repeated for generating the input value of each neuron in hidden layer and then those inputs are passed to the output layer and same process is repeated again to gain the ouptut. 
 
