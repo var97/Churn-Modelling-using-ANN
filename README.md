@@ -23,7 +23,7 @@ In order to gain best output from multi layer neural networks backpropagation al
 
 Well we can also use hyperparameter tuning in order to achieve the best parameters for an ANN so that it could achieve better results.
 
-** I recommend all to user to use  _hyperparameter tuning_ so that they can achieve best from their ANN. Well I have also used hyperparameter tuning in my code **
+**I recommend all to user to use  _hyperparameter tuning_ so that they can achieve best from their ANN. Well I have also used hyperparameter tuning in my code**
 
 Well this is the working of an ANN,  most of this you are unable to see practically because this is basically what happens behind the scenes.
 
