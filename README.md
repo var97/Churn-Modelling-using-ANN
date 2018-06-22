@@ -10,7 +10,7 @@ Each connection, like the synapses in a biological brain, can transmit a signal 
 ## Working of ANN
 
 - The input layer takes input values after preprocessing in the neurons from the dataset.
-- Then for each particular neuron in the hidden layer the input is calculated by multiplying the values of inputs of each neuron from input layer connected to that particular neuron by the weights of the each particular edges that are connecting those neurons to that particular neuron.
+- Then for each particular neuron in the hidden layer the input is calculated by multiplying the values of inputs of each neurons from input layer connected to that particular neuron by the weights of the each particular edges that are connecting those neurons to that particular neuron.
 - After that value of bias node is added and then we have to apply appropiate activation function to the whole calculated value to get the scaled data for next layer as a input
 
 For example if their are x1, x2 and x3 as an input values and w1, w2, w3 as weight of edges connecting to neuron h1 in hidden layer, then input of h1 is calculated by
